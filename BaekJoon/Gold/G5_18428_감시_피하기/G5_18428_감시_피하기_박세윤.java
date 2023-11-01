@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class G5_18428_감시_피하기 {
+public class G5_18428_감시_피하기_박세윤 {
 
     private static int N;
     private static boolean answer;
