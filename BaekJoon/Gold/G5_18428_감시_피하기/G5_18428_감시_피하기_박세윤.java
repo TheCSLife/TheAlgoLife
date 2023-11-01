@@ -18,7 +18,7 @@ public class G5_18428_감시_피하기 {
     private static String[][] map;
     private static boolean[][] visited;
 
-    private static List<Point> teacherList = new ArrayList<>();
+    private static List<Point> teacherList;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -29,6 +29,7 @@ public class G5_18428_감시_피하기 {
         answer = false;
         map = new String[N][N];
         visited = new boolean[N][N];
+        teacherList = new ArrayList<>();
 
         for(int i=0; i<N; i++) {
             st = new StringTokenizer(br.readLine(), " ");
