@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class G4_18430_무기_공학 {
+public class G4_18430_무기_공학_박세윤 {
 
     private static int N;
     private static int M;
