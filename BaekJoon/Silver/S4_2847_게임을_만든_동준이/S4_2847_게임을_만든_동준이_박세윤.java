@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class S4_2847_게임을_만든_동준이 {
+public class S4_2847_게임을_만든_동준이_박세윤 {
 
     private static int N;
     private static int cnt;
