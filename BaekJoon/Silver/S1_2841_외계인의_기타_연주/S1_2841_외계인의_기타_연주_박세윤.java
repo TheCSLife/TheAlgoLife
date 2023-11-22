@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class S1_2841_외계인의_기타_연주 {
+public class S1_2841_외계인의_기타_연주_박세윤 {
 
     private static int N;
     private static int P;
