@@ -33,6 +33,7 @@ class Solution {
     
     public int changeToDate(String day) {
         StringBuilder sb = new StringBuilder();
+        
         int cnt = 0;
         int year = -1;
         int month = -1;
