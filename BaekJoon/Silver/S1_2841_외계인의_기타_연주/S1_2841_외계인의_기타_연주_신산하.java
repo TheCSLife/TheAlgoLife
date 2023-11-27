@@ -3,6 +3,7 @@
 * Time : 1588 ms
 * */
 
+package BaekJoon.Silver;
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
