@@ -44,7 +44,6 @@ public class S3_13305_주유소 {
 
         for(int i=0; i<priceArr.length - 1; i++) {
             minimumPrice = Math.min(minimumPrice, priceArr[i]);
-
             total += minimumPrice * roadArr[i];
         }
     }
