@@ -1,8 +1,8 @@
 class Lv_3_정수_삼각형 {
     public int solution(int[][] triangle) {
         int answer = 0;
-
         int[][] dp = new int[triangle.length][triangle.length];
+        
         dp[0][0] = triangle[0][0];
 
         for(int i=1; i<triangle.length; i++) {
