@@ -3,6 +3,8 @@
 * Time : 112 ms
 * */
 
+package BaekJoon.Gold;
+
 import java.io.*;
 
 public class G5_15989_1_2_3_더하기_4_신산하 {
