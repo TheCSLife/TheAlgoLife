@@ -1,3 +1,10 @@
+/*
+* Memory : 11768 KB
+* Time : 84 ms
+* */
+
+package BaekJoon.Gold;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
