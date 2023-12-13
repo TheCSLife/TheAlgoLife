@@ -1,3 +1,10 @@
+/*
+* Memory : 119136 KB
+* Time : 984 ms
+* */
+
+package BaekJoon.Silver;
+
 import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.HashMap;
